@@ -2,7 +2,7 @@
 
 # 1. 创建根证书
     #创建根证书私钥：
-    #openssl genrsa -out root.key 2048
+    openssl genrsa -out root.key 2048
 
     #创建根证书请求文件：
     openssl req -new -out root.csr -key root.key
