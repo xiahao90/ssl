@@ -1,3 +1,5 @@
+# 双向认证证书生成
+
 # 1. 创建根证书
     #创建根证书私钥：
     #openssl genrsa -out root.key 2048
