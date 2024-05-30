@@ -1,3 +1,5 @@
+# 可以一键生成，看[auto目录]([http://ace.ajax.org/](https://github.com/xiahao90/ssl/tree/main/auto))
+
 # 双向认证证书生成
 
 # 1. 创建根证书
