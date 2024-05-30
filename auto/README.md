@@ -8,7 +8,7 @@
     server {
         listen       443 ssl;
         server_name  www.baidu.com;# 无域名可填写ip
-     	ssl                  on;  
+        ssl                  on;  
 	    ssl_certificate     /newcerts/www.baidu.com/server.cert.pem;
 	    ssl_certificate_key /newcerts/www.baidu.com/server.key.pem;
 	    ssl_client_certificate /certs/intermediateca-chain.cert.pem;
