@@ -14,3 +14,4 @@
 	    ssl_client_certificate /certs/intermediateca-chain.cert.pem;
 	    ssl_verify_client on;  #开启客户端证书验证  
     }
+# 4. 修改自项目https://github.com/demokn/OpenSSLCA
