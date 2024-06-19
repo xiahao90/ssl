@@ -1,6 +1,6 @@
 # 可以一键生成，看[auto目录]([http://ace.ajax.org/](https://github.com/xiahao90/ssl/tree/main/auto))
 
-# 双向认证证书生成
+# 双向认证，web系统点击生成，暂未公开
 
     docker run -e JWT_SK=8VLb5IE3cyOZg7sHWBdYmaFDUn1rt60J -v /ssl:/home/ssl -p 8003:8003 xiahao90/autossl:v0.10
 
